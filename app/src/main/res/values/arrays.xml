@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="english_array">
+        <item>come on</item>
+        <item>interesting</item>
+        <item>really</item>
+        <item>okay</item>
+        <item>hurry up</item>
+        <item>there is</item>
+        <item>no</item>
+    </string-array>
+</resources>
